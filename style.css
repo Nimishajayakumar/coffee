@@ -108,7 +108,7 @@ color: var(--bg-color );
 }
 .home{
     min-height: 100vh;
-    background: url(bs.png);
+    background: url(img/bs.png);
 background-repeat: no-repeat;
 background-size:  cover;
 background-position: center;
